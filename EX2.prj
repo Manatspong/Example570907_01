@@ -1,0 +1,4 @@
+vhdl work "OR_4.vhd"
+vhdl work "not_gate.vhd"
+vhdl work "AND_3.vhd"
+vhdl work "EX2.vhd"

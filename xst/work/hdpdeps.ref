@@ -1,0 +1,25 @@
+V3 18
+FL E:/Users/Example570907_01/AND_3.vhd 2014/09/07.11:37:10 P.68d
+EN work/AND_3 1410065419 FL E:/Users/Example570907_01/AND_3.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/AND_3/Behavioral 1410065420 \
+      FL E:/Users/Example570907_01/AND_3.vhd EN work/AND_3 1410065419
+FL E:/Users/Example570907_01/EX1.vhd 2014/09/07.11:23:40 P.68d
+EN work/EX1 1410063953 FL E:/Users/Example570907_01/EX1.vhd PB ieee/std_logic_1164 1370735607
+AR work/EX1/dataflow 1410063954 \
+      FL E:/Users/Example570907_01/EX1.vhd EN work/EX1 1410063953
+FL E:/Users/Example570907_01/EX2.vhd 2014/09/07.11:50:06 P.68d
+EN work/EX2 1410065423 FL E:/Users/Example570907_01/EX2.vhd PB ieee/std_logic_1164 1370735607
+AR work/EX2/Structural 1410065424 \
+      FL E:/Users/Example570907_01/EX2.vhd EN work/EX2 1410065423 CP not_gate \
+      CP and_3 CP or_4
+FL E:/Users/Example570907_01/not_gate.vhd 2014/09/07.11:34:25 P.68d
+EN work/not_gate 1410065417 FL E:/Users/Example570907_01/not_gate.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/not_gate/Behavioral 1410065418 \
+      FL E:/Users/Example570907_01/not_gate.vhd EN work/not_gate 1410065417
+FL E:/Users/Example570907_01/OR_4.vhd 2014/09/07.11:37:51 P.68d
+EN work/OR_4 1410065421 FL E:/Users/Example570907_01/OR_4.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/OR_4/Behavioral 1410065422 \
+      FL E:/Users/Example570907_01/OR_4.vhd EN work/OR_4 1410065421

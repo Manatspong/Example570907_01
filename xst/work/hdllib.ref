@@ -1,0 +1,10 @@
+EN and_3 NULL E:/Users/Example570907_01/AND_3.vhd sub00/vhpl04 1410065419
+AR not_gate behavioral E:/Users/Example570907_01/not_gate.vhd sub00/vhpl03 1410065418
+EN not_gate NULL E:/Users/Example570907_01/not_gate.vhd sub00/vhpl02 1410065417
+AR and_3 behavioral E:/Users/Example570907_01/AND_3.vhd sub00/vhpl05 1410065420
+AR ex1 dataflow E:/Users/Example570907_01/EX1.vhd sub00/vhpl01 1410063954
+EN or_4 NULL E:/Users/Example570907_01/OR_4.vhd sub00/vhpl06 1410065421
+EN ex1 NULL E:/Users/Example570907_01/EX1.vhd sub00/vhpl00 1410063953
+EN ex2 NULL E:/Users/Example570907_01/EX2.vhd sub00/vhpl08 1410065423
+AR ex2 structural E:/Users/Example570907_01/EX2.vhd sub00/vhpl09 1410065424
+AR or_4 behavioral E:/Users/Example570907_01/OR_4.vhd sub00/vhpl07 1410065422
